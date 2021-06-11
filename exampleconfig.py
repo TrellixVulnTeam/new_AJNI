@@ -5,7 +5,7 @@ class Development(Config):
   # get this values from my.telegram.org. 
   # 6 is just a placeholder. Fill your own api id & hash.
   APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  API_HASH = "888888888888"
 
   # the name to display in your alive message.
   # If not filled anything then default value is Mafia User.
